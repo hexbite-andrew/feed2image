@@ -1,4 +1,4 @@
 qrcode
 fonts
 font-roboto
-Pillow
+Pillow==9.5.0
